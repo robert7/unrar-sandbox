@@ -1,3 +1,8 @@
+Private copy of original freeware Unrar C++ source (from rarlab.com)
+and https://github.com/pmachapman/unrar makefile for unix-es (see bellow)
+for study purposes.
+
+---
 
                        Portable UnRAR version
 
